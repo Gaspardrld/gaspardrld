@@ -11,6 +11,12 @@
 🌐 French · English · Portuguese 
 ```
 
+## Current Projects
+
+- 📝 Notex — ultra-fast desktop note app built with PySide6
+- 🤖 Integrating AI-powered note search using the Mistral API
+- ⚙️ Interested in systems programming & embedded technologies
+
 ---
 
 **Languages & Tools**
