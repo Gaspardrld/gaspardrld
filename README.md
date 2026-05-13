@@ -1,35 +1,33 @@
 <div align="center">
-
-### gaspardrld
-
-```yaml
-name: Gaspar
-location: Lausanne, CH
-education: Microtechnique Engineering @ EPFL (BA2)
-interests: [embedded systems, robotics, plasma physics]
-goal: Master's @ top research program
-```
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Microtechnique+%40+EPFL;C%2B%2B+%2F+Python+%2F+Systems;Building+things+that+work." alt="Typing SVG" />
 </div>
 
----
+<br/>
 
-### Tech Stack
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+```
+📍 Lausanne, Switzerland
+🎓 BA2 — École Polytechnique Fédérale de Lausanne
+🔭 Embedded systems · Robotics · Computer Sciences
+🌐 FR / EN / DE / PT
+```
 
 ---
 
-### Stats
+**Languages & Tools**
 
-<img src="https://github-readme-stats.vercel.app/api?username=gaspardrld&show_icons=true&hide_border=true&count_private=true&theme=default" height="130"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspardrld&layout=compact&hide_border=true&theme=default" height="130"/>
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt%2FPySide6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
-`C++` `OOP` `PySide6` `Numerical Methods` `Systems Engineering` `CATIA V5`
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaspardrld&show_icons=true&hide_border=true&count_private=true&theme=default" height="130"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaspardrld&hide_border=true&theme=default" height="130"/>
+</div>
