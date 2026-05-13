@@ -4,11 +4,11 @@
 
 <br/>
 
-```
+```txt
 📍 Lausanne, Switzerland
-🎓 1rst year — École Polytechnique Fédérale de Lausanne
-🔭 Embedded systems · Robotics · Computer Sciences
-🌐 FR / EN / DE / PT
+🎓 First-year Microengineering student @ EPFL
+🔭 Embedded Systems · Robotics · Computer Science
+🌐 French · English · Portuguese 
 ```
 
 ---
