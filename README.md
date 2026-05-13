@@ -6,7 +6,7 @@
 
 ```
 📍 Lausanne, Switzerland
-🎓 BA2 — École Polytechnique Fédérale de Lausanne
+🎓 1rst year — École Polytechnique Fédérale de Lausanne
 🔭 Embedded systems · Robotics · Computer Sciences
 🌐 FR / EN / DE / PT
 ```
