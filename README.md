@@ -10,8 +10,9 @@
 🔭 Embedded Systems · Robotics · Computer Science
 🌐 French · English · Portuguese 
 ```
+---
 
-** Current Projects
+**Current Projects**
 
 - 📝 Notex — ultra-fast desktop note app built with PySide6
 - 🤖 Integrating AI-powered note search using the Mistral API
