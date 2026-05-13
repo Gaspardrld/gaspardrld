@@ -26,7 +26,3 @@
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspardrld&layout=compact&hide_border=true&theme=default" height="130"/>
-</div>
