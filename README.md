@@ -28,6 +28,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaspardrld&show_icons=true&hide_border=true&count_private=true&theme=default" height="130"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaspardrld&hide_border=true&theme=default" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspardrld&layout=compact&hide_border=true&theme=default" height="130"/>
 </div>
