@@ -6,7 +6,7 @@
 
 ```txt
 📍 Lausanne, Switzerland
-🎓 First-year Microengineering student @ EPFL
+🎓 Second-year Microengineering student @ EPFL
 🔭 Embedded Systems · Robotics · Computer Science
 🌐 French · English · Portuguese 
 ```
